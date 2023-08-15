@@ -1,0 +1,2 @@
+-af loudnorm=i=-23:tp=-3 # or dynaudnorm=g=45
+-vn

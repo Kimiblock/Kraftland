@@ -1,0 +1,363 @@
+{
+  "block.sculk_shrieker.shriek": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "block/sculk_shrieker/sculk_shrieker_warn1",
+        "pitch": 1.3,
+        "attenuation_distance": 16,
+        "category": "hostile",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "警撅"
+  },
+  "entity.warden.agitated": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/en_a_1",
+        "pitch": 1.0,
+        "attenuation_distance": 16,
+        "category": "hostile",
+        "volume": 1.0
+      }
+    ]
+  },
+  "entity.warden.ambient": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/en_a_2",
+        "pitch": 1.0,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 1.0
+      }
+    ]
+  },
+  "entity.warden.angry": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/heng_a_a_1",
+        "pitch": 1.0,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 1.0
+      }
+    ],
+    "subtitle": "恼"
+  },
+  "entity.warden.attack_impact": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/heng_a_a_1",
+        "pitch": 1.0,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 1.0
+      }
+    ],
+    "subtitle": "撅♂️击"
+  },
+  "entity.warden.death": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/ni_shi_yi_ge",
+        "pitch": 1.0,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 1.0
+      }
+    ],
+    "subtitle": "你是, 一个一个一个..."
+  },
+  "entity.warden.dig": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/ya_li_ma_si_nei",
+        "pitch": 0.3,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 1.0
+      }
+    ],
+    "subtitle": "撅地"
+  },
+  "entity.warden.heartbeat": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/heng_2",
+        "pitch": 0.95,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 0.1
+      }
+    ],
+    "subtitle": "(心虚)"
+  },
+  "entity.warden.hurt": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/ni_shi_yi_ge_2",
+        "pitch": 1,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 1
+      }
+    ],
+    "subtitle": "你是一个一个(急迫)"
+  },
+  "entity.warden.listening": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/ya_li_ma_si_nei_2",
+        "pitch": 1,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 0.7
+      }
+    ],
+    "subtitle": "(偷看)"
+  },
+  "entity.warden.listening_angry": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/ya_li_ma_si_nei_2",
+        "pitch": 1.3,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 1
+      }
+    ],
+    "subtitle": "你有在偷看罢?"
+  },
+  "entity.warden.nearby_close": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/ya_li_ma_si_nei_2",
+        "pitch": 1,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 0.2
+      }
+    ],
+    "subtitle": "警撅"
+  },
+  "entity.warden.nearby_closer": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/ya_li_ma_si_nei_2",
+        "pitch": 1.06,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 0.7
+      }
+    ],
+    "subtitle": "察觉"
+  },
+  "entity.warden.nearby_closest": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/ya_li_ma_si_nei_2",
+        "pitch": 1.1,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 1
+      }
+    ],
+    "subtitle": "要素察觉"
+  },
+  "entity.warden.roar": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/aaaaaaaaaaa",
+        "pitch": 1,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 1
+      }
+    ],
+    "subtitle": "啊♂️"
+  },
+  "entity.warden.sniff": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/ya_li_ma_si_neineinei",
+        "pitch": 1,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 1
+      }
+    ],
+    "subtitle": "压力马斯内, 藏得真好啊(赞赏)"
+  },
+  "entity.warden.sonic_boom": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/aaaaaaaaaaa_2",
+        "pitch": 1,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 0.7
+      }
+    ],
+    "subtitle": "脱♂️出来力"
+  },
+  "entity.warden.sonic_charge": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/enhengheng_fast",
+        "pitch": 1,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 0.7
+      }
+    ],
+    "subtitle": "呢哼哼 (蓄力)"
+  },
+  "entity.warden.tendril_clicks": {
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "mob/warden/ya_li_ma",
+        "pitch": 1,
+        "attenuation_distance": 32,
+        "category": "hostile",
+        "volume": 1
+      }
+    ],
+    "subtitle": "压力马(打断施法)"
+  },
+  "kraftland.intro": {
+    "sounds": [
+      {
+        "name": "kraftland/intro"
+      }
+    ],
+    "subtitle": "你好, Kraftland!",
+    "volume": 0.8
+  },
+  
+
+  "music_disc.strad": {
+    "sounds": [
+      {
+        "name": "records/strad"
+      }
+    ],
+    "stream": true
+  },
+  "music_disc.pigstep": {
+    "sounds": [
+      {
+        "name": "records/pigstep"
+      }
+    ],
+    "stream": true
+  },
+  "music_disc.cat": {
+    "sounds": [
+      {
+        "name": "records/cat"
+      }
+    ],
+    "stream": true
+  },
+  "music_disc.mellohi": {
+    "sounds": [
+      {
+        "name": "records/mellohi"
+      }
+    ],
+    "stream": true
+  },
+  "music_disc.far": {
+    "sounds": [
+      {
+        "name": "records/far"
+      }
+    ],
+    "stream": true
+  },
+  "music_disc.chirp": {
+    "sounds": [
+      {
+        "name": "records/chirp"
+      }
+    ],
+    "stream": true
+  },
+  "music_disc.13": {
+    "sounds": [
+      {
+        "name": "records/13"
+      }
+    ],
+    "stream": true
+  },
+  "music_disc.otherside": {
+    "sounds": [
+      {
+        "name": "records/otherside"
+      }
+    ],
+    "stream": true
+  },
+  "music_disc.wait": {
+    "sounds": [
+      {
+        "name": "records/wait"
+      }
+    ],
+    "stream": true
+  },
+  "music_disc.blocks": {
+    "sounds": [
+      {
+        "name": "records/blocks"
+      }
+    ],
+    "stream": true
+  },
+  "music_disc.stal": {
+    "sounds": [
+      {
+        "name": "records/stal"
+      }
+    ],
+    "stream": true
+  },
+  "music_disc.mall": {
+    "sounds": [
+      {
+        "name": "records/mall"
+      }
+    ],
+    "stream": true
+  },
+  "music_disc.ward": {
+    "sounds": [
+      {
+        "name": "records/ward"
+      }
+    ],
+    "stream": true
+  }
+
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "section": "Kraftland Team",
+        "disciplines": [
+            {
+                "discipline": "Leadership",
+                "titles": [
+                    {
+                        "title": "Founder and Operator",
+                        "names": [
+                            "Kimiblock Moe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "Team Members",
+                "titles": [
+                    {
+                        "title": "Game Director and Music Provider",
+                        "names": [
+                            "Zero Jiang"
+                        ]
+                    },
+                    {
+                        "title": "Cooperator",
+                        "names": [
+                            "Mike Chen"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "section": "External Sources",
+        "disciplines": [
+            {
+                "discipline": "Music Providers",
+                "titles": [
+                    {
+                        "title": "Major Providers",
+                        "names": [
+                            "HOYO-Mix",
+                            "RADWIMPS",
+                            "April is your lie"
+                        ]
+                    },
+                    {
+                        "title": "Special Thanks",
+                        "names": [
+                            "Blue Archive Fans",
+                            "86",
+                            "KAF",
+                            "NEXON",
+                            "結束バンド",
+                            "Call of Duty",
+                            "Onimai",
+                            "24歳、学生です"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
