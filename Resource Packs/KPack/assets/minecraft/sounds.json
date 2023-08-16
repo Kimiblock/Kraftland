@@ -261,7 +261,8 @@
         "name": "records/strad"
       }
     ],
-    "stream": true
+    "stream": false,
+    "preload": true
   },
   "music_disc.pigstep": {
     "sounds": [
