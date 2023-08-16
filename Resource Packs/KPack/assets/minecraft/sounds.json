@@ -258,16 +258,16 @@
   "music_disc.strad": {
     "sounds": [
       {
-        "name": "records/strad"
+        "name": "kraftland/discs/strad"
       }
     ],
-    "stream": false,
+    "stream": true,
     "preload": true
   },
   "music_disc.pigstep": {
     "sounds": [
       {
-        "name": "records/pigstep"
+        "name": "kraftland/discs/pigstep"
       }
     ],
     "stream": true
@@ -275,7 +275,7 @@
   "music_disc.cat": {
     "sounds": [
       {
-        "name": "records/cat"
+        "name": "kraftland/discs/cat"
       }
     ],
     "stream": true
@@ -283,7 +283,7 @@
   "music_disc.mellohi": {
     "sounds": [
       {
-        "name": "records/mellohi"
+        "name": "kraftland/discs/mellohi"
       }
     ],
     "stream": true
@@ -291,7 +291,7 @@
   "music_disc.far": {
     "sounds": [
       {
-        "name": "records/far"
+        "name": "kraftland/discs/far"
       }
     ],
     "stream": true
@@ -299,7 +299,7 @@
   "music_disc.chirp": {
     "sounds": [
       {
-        "name": "records/chirp"
+        "name": "kraftland/discs/chirp"
       }
     ],
     "stream": true
@@ -307,7 +307,7 @@
   "music_disc.13": {
     "sounds": [
       {
-        "name": "records/13"
+        "name": "kraftland/discs/13"
       }
     ],
     "stream": true
@@ -315,7 +315,7 @@
   "music_disc.otherside": {
     "sounds": [
       {
-        "name": "records/otherside"
+        "name": "kraftland/discs/otherside"
       }
     ],
     "stream": true
@@ -323,7 +323,7 @@
   "music_disc.wait": {
     "sounds": [
       {
-        "name": "records/wait"
+        "name": "kraftland/discs/wait"
       }
     ],
     "stream": true
@@ -331,7 +331,7 @@
   "music_disc.blocks": {
     "sounds": [
       {
-        "name": "records/blocks"
+        "name": "kraftland/discs/blocks"
       }
     ],
     "stream": true
@@ -339,7 +339,7 @@
   "music_disc.stal": {
     "sounds": [
       {
-        "name": "records/stal"
+        "name": "kraftland/discs/stal"
       }
     ],
     "stream": true
@@ -347,7 +347,7 @@
   "music_disc.mall": {
     "sounds": [
       {
-        "name": "records/mall"
+        "name": "kraftland/discs/mall"
       }
     ],
     "stream": true
@@ -355,7 +355,7 @@
   "music_disc.ward": {
     "sounds": [
       {
-        "name": "records/ward"
+        "name": "kraftland/discs/ward"
       }
     ],
     "stream": true
