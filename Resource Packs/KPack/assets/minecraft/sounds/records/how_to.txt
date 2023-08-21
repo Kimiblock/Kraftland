@@ -1,2 +1,2 @@
--af loudnorm=i=-23:tp=-3 # or dynaudnorm=g=45
+-af dynaudnorm=g=45:p=0.5:m=1:s=0
 -vn
