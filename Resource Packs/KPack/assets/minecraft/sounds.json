@@ -359,6 +359,14 @@
       }
     ],
     "stream": true
-  }
+  },
 
+  "music.credits": {
+    "sounds": [
+      {
+        "name": "kraftland/credits"
+      }
+    ],
+    "stream": true
+  }
 }
