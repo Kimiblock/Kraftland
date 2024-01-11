@@ -49,6 +49,7 @@ assets/minecraft/sounds/music/game/an_ordinary_day.ogg
 assets/minecraft/sounds/music/game/ancestry.ogg
 assets/minecraft/sounds/music/game/bromeliad.ogg
 assets/minecraft/sounds/music/game/clark.ogg
+assets/minecraft/sounds/music/game/crescent_dunes.ogg
 assets/minecraft/sounds/music/game/comforting_memories.ogg
 assets/minecraft/sounds/music/game/danny.ogg
 assets/minecraft/sounds/music/game/dry_hands.ogg
