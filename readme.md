@@ -44,6 +44,12 @@ assets/minecraft/sounds/ambient/cave/cave[1-19].ogg
 ### Main World
 
 ```
+assets/minecraft/sounds/music/game/swamp/aerie.ogg
+assets/minecraft/sounds/music/game/swamp/firebugs.ogg
+assets/minecraft/sounds/music/game/swamp/labyrinthine.ogg
+```
+
+```
 assets/minecraft/sounds/music/game/a_familiar_room.ogg
 assets/minecraft/sounds/music/game/an_ordinary_day.ogg
 assets/minecraft/sounds/music/game/ancestry.ogg
@@ -76,7 +82,6 @@ assets/minecraft/sounds/music/game/wet_hands.ogg
 ```
 assets/minecraft/sounds/music/game/swamp/aerie.ogg
 assets/minecraft/sounds/music/game/swamp/firebugs.ogg
-assets/minecraft/sounds/music/game/swamp/labyrinthine.ogg
 ```
 
 ### Game Menu
