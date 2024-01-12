@@ -61,7 +61,7 @@ assets/minecraft/sounds/music/game/danny.ogg
 assets/minecraft/sounds/music/game/dry_hands.ogg
 assets/minecraft/sounds/music/game/echo_in_the_wind.ogg
 assets/minecraft/sounds/music/game/floating_dream.ogg
-assets/minecraft/sounds/music/game/haggstorm.ogg
+assets/minecraft/sounds/music/game/haggstrom.ogg
 assets/minecraft/sounds/music/game/infinite_amethyst.ogg
 assets/minecraft/sounds/music/game/key.ogg
 assets/minecraft/sounds/music/game/left_to_boom.ogg
