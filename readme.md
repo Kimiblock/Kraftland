@@ -6,8 +6,6 @@
 
 We are aware of the music discs being suddenly cut off, This is a [Mojang Bug](https://bugs.mojang.com/browse/MC-260346) which is not being fixed.
 
-We are also aware that Resource Packs will be redownloaded even if they aren't updated. This is also a [Mojang bug](https://bugs.mojang.com/browse/MC-267359) which won't be fixed.
-
 # Replaceable Music
 
 ## Records
@@ -131,36 +129,20 @@ assets/minecraft/sounds/music/game/nether/warmth.ogg
 
 ```
 assets/minecraft/sounds/ambient/nether/basalt_deltas/active[1-4].ogg
-```
 
-```
 assets/minecraft/sounds/ambient/nether/basalt_deltas/basaltground[1-4].ogg
-```
 
-```
 assets/minecraft/sounds/ambient/nether/basalt_deltas/ambience.ogg
-```
 
-```
 assets/minecraft/sounds/ambient/nether/basalt_deltas/click[1-8].ogg
-```
 
-```
 assets/minecraft/sounds/ambient/nether/basalt_deltas/debris[1-3].ogg
-```
 
-```
 assets/minecraft/sounds/ambient/nether/basalt_deltas/heavy_click[1-2].ogg
-```
 
-```
 assets/minecraft/sounds/ambient/nether/basalt_deltas/long_debris[1-2].ogg
-```
 
-```
 assets/minecraft/sounds/ambient/nether/basalt_deltas/plode[1-3].ogg
-```
 
-```
 assets/minecraft/sounds/ambient/nether/basalt_deltas/twist[1-4].ogg
 ```
