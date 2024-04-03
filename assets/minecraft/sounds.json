@@ -286,6 +286,14 @@
     ],
     "subtitle": "Kraftland Disc"
   },
+  "kraftland.disc.13": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/13"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  },
   "kraftland.disc.chirp": {
     "sounds": [
       {
