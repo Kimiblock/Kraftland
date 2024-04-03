@@ -253,4 +253,125 @@
     "subtitle": "你好, Kraftland!",
     "volume": 0.8
   }
+  
+  "kraftland.disc.stal": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/stal"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  }
+  "kraftland.disc.5": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/5"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  },
+  "kraftland.disc.blocks": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/blocks"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  },
+  "kraftland.disc.cat": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/cat"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  },
+  "kraftland.disc.cat": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/cat"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  },
+  "kraftland.disc.chirp": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/chirp"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  },
+  "kraftland.disc.far": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/far"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  },
+  "kraftland.disc.mall": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/mall"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  },
+  "kraftland.disc.mellohi": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/mellohi"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  },
+  "kraftland.disc.otherside": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/otherside"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  },
+  "kraftland.disc.pigstep": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/pigstep"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  },
+  "kraftland.disc.relic": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/relic"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  },
+  "kraftland.disc.ward": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/ward"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  },
+  "kraftland.disc.strad": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/strad"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  },
+  "kraftland.disc.wait": {
+    "sounds": [
+      {
+        "name": "kraftland/disc/wait"
+      }
+    ],
+    "subtitle": "Kraftland Disc"
+  }
 }
