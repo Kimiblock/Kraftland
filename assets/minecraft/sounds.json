@@ -252,8 +252,8 @@
     ],
     "subtitle": "你好, Kraftland!",
     "volume": 0.8
-  }
-  
+  },
+
   "kraftland.disc.stal": {
     "sounds": [
       {
@@ -261,7 +261,7 @@
       }
     ],
     "subtitle": "Kraftland Disc"
-  }
+  },
   "kraftland.disc.5": {
     "sounds": [
       {
@@ -274,14 +274,6 @@
     "sounds": [
       {
         "name": "kraftland/disc/blocks"
-      }
-    ],
-    "subtitle": "Kraftland Disc"
-  },
-  "kraftland.disc.cat": {
-    "sounds": [
-      {
-        "name": "kraftland/disc/cat"
       }
     ],
     "subtitle": "Kraftland Disc"
